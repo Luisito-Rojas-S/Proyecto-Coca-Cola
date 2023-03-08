@@ -1,0 +1,11 @@
+Primero 
+1.- Pone en los atributos la istanciacion de los componentes 
+2.- En el constructor  construye el JPanel y ahi mismo pone todas las propiedades de los componentes
+3.- Si hay eventos los coloca en una clase aparte
+4.- Despues  pone todas las propiedades de la ventana en el main
+5.- Manifest-Version: 1.0
+Created-By: Luis Rojas
+Main-Class: Bienvenida
+X-COMMENT: Proyecto Escolar
+6.- MANIFEST.MF
+7.- jar cvfm Sistema.jar manifest.mf Bienvenida.class Licencia.class Principal.class images/coca-cola.png images/icon.png images/logo-coca.png images/coca-cola-blanco.png 
